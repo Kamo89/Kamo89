@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kamo89</h1>
-<h3 align="center">A passionate Data Analyst from Johannesburg</h3>
+<h3 align="center">A passionate Software Tester from Johannesburg</h3>
 <img align="right" alt="Coding" width="250" src="https://ameyacloud.in/wp-content/uploads/2022/03/Business-analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamo89&label=Profile%20views&color=0e75b6&style=flat" alt="kamo89" /> </p>
 
-- 🌱 I’m currently learning **Power BI and R**
+- 🌱 I’m currently learning for my **ISTQB** certificate
 
-- 💬 Ask me about **php, MySql, Tableau, Excel, Python**
+- 💬 Ask me about **php, MySql, Tableau, Excel, Python, Power BI, R, Selenium, java, JavaScript**
 
 - 📫 How to reach me **Kamohelomosiya89@gmail.com**
 
