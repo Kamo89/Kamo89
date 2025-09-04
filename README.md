@@ -32,8 +32,7 @@ I love building **websites**, testing apps, and diving deep into tech challenges
 
 ## 📫 Connect with me
 
-- 📧 Email: kamohelomosiya89@gmail.com  
-- 📱 Phone: 0718100711  
+- 📧 Email: kamohelomosiya89@gmail.com    
 - 📸 Instagram: [@just.techkamo](https://instagram.com/just.techkamo)  
 - 📘 Facebook: [Kamohelo Mosiya](https://facebook.com/KamoheloMosiya)  
 
