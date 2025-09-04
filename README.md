@@ -46,7 +46,3 @@ I love building **websites**, testing apps, and diving deep into tech challenges
 - True crime podcast host 🎙️  
 
 ---
-
-### 📈 GitHub Stats  
-
-![Kamohelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
