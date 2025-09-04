@@ -16,7 +16,7 @@ I love building **websites**, testing apps, and diving deep into tech challenges
 
 ## 🌟 Projects
 
-- [**WanPuckUpholstery Website**](https://github.com/yourgithubrepo) – Custom upholstery business website with portfolio & quote request features.  
+- [**WanPuckUpholstery Website**]([https://github.com/yourgithubrepo](https://github.com/Kamo89/WanPuckUpholstery.git)) – Custom upholstery business website with portfolio & quote request features.  
 - **Em(Pty) Clothing Brand Website** – Currently in progress!  
 - **Podcast:** [Kamo Crime Chronicles on Spotify](https://open.spotify.com/) – True crime podcast, moving to YouTube soon.  
 
