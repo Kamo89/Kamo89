@@ -42,7 +42,7 @@ I love building **websites**, testing apps, and diving deep into tech challenges
 ## ⚡ Fun Facts
 
 - I run marathons 🏃‍♀️  
-- Soccer player & fan ⚽  
+- Soccer player ⚽  
 - True crime podcast host 🎙️  
 
 ---
