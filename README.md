@@ -1,22 +1,52 @@
-<h1 align="center">Hi 👋, I'm Kamo89</h1>
-<h3 align="center">A passionate Software Tester from Johannesburg</h3>
-<img align="right" alt="Coding" width="250" src="https://ameyacloud.in/wp-content/uploads/2022/03/Business-analytics.gif">
+# Hi there 👋, I'm Kamohelo Mosiya
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamo89&label=Profile%20views&color=0e75b6&style=flat" alt="kamo89" /> </p>
+💻 **Junior Test Engineer | Freelance Web Developer | Tech Enthusiast**  
 
-- 🌱 I’m currently learning for my **ISTQB** certificate
+I love building **websites**, testing apps, and diving deep into tech challenges. I'm also the voice behind my crime podcast **Kamo Crime Chronicles** 🎙️ and a marathon-running soccer fan ⚽🏃‍♀️.  
 
-- 💬 Ask me about **php, MySql, Tableau, Excel, Python, Power BI, R, Selenium, java, JavaScript**
+---
 
-- 📫 How to reach me **Kamohelomosiya89@gmail.com**
+## 🛠️ Tech & Tools
 
-- ⚡ Fun fact **I think I am funny**
+- **Languages:** Java, JavaScript, Python, PHP, SQL, HTML, CSS  
+- **Testing:** Selenium, Appium, Jenkins  
+- **Other:** Web Development, Automation Testing  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kamohelo-mosiya-772924221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamohelo-mosiya-772924221/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/kamohelo.mosiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kamohelo.mosiya" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="selenium" width="40" height="40"/> </a> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.oracle.com/img/tech/cb88-java-logo-001.jpg" alt="java" width="40" height="40"/> </a></p>
+## 🌟 Projects
+
+- [**WanPuckUpholstery Website**](https://github.com/yourgithubrepo) – Custom upholstery business website with portfolio & quote request features.  
+- **Em(Pty) Clothing Brand Website** – Currently in progress!  
+- **Podcast:** [Kamo Crime Chronicles on Spotify](https://open.spotify.com/) – True crime podcast, moving to YouTube soon.  
+
+---
+
+## 💼 Work Experience
+
+- **Discovery** – Test Engineer  
+- **PPS & JUTA** – Current Test Engineer  
+- Freelance web development projects  
+
+---
+
+## 📫 Connect with me
+
+- 📧 Email: kamohelomosiya89@gmail.com  
+- 📱 Phone: 0718100711  
+- 📸 Instagram: [@just.techkamo](https://instagram.com/just.techkamo)  
+- 📘 Facebook: [Kamohelo Mosiya](https://facebook.com/KamoheloMosiya)  
+
+---
+
+## ⚡ Fun Facts
+
+- I run marathons 🏃‍♀️  
+- Soccer player & fan ⚽  
+- True crime podcast host 🎙️  
+
+---
+
+### 📈 GitHub Stats  
+
+![Kamohelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
